@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: var(--grayish-blue-clr);
+  background-color: var(--light-gray-clr);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -57,5 +57,5 @@ body {
 
 .text {
   font-size: var(--text-fs);
-  color: var(--light-gray-clr);
+  color: var(--grayish-blue-clr);
 }
